@@ -1,2 +1,2 @@
-# Data-Analysis-with-Python-CertificationData-Analysis-with-PythonCertification
+# Data-Analysis-with-Python-Certification
 A Repo for FreeCodeCamp Data Analysis with Python Course
